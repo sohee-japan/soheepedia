@@ -1,6 +1,6 @@
 ---
 title: デチンソ（대.친.소 / Daechinso）
-permalink: daechinso.html
+permalink: /daechinso/
 ---
 
 Mnet Plus の公式ライブ配信コンテンツ  
