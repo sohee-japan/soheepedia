@@ -9,6 +9,7 @@ description: RIIZE ソヒがMCを務めたデチンソ公式無料フル動画�
 ソヒがMCを務めた **Mnet Plus公式ライブ配信コンテンツ  
 「デチンソ（待機室ライブ / 대.친.소 ）」** に関する情報をまとめています。
 
+
 ## デチンソの魅力は？
 - 本番前の待機室というラフな空間で、ソヒと出演者のラフなトークが楽しめる
 - ソヒ／BOYNEXTDOOR ジェヒョン／ZEROBASEONE ハンビンの3人がMCを担当  
@@ -16,6 +17,7 @@ description: RIIZE ソヒがMCを務めたデチンソ公式無料フル動画�
 - 生放送ならではのフリートークが多く、回ごとに展開が異なる
 - 公式日本語字幕付きで、初めてでも見やすい
 - 公式アーカイブのフル動画が無料で視聴可能（下の表にリンクあり）
+
 
 ## ソヒが出演したデチンソ一覧
 
@@ -52,6 +54,7 @@ description: RIIZE ソヒがMCを務めたデチンソ公式無料フル動画�
 | 871 | (ENG/JPN) 대.친.소 라이브 - EP.871                                            | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F6788dc410213734d821f8b82) |         |
 | 877 | (ENG/JPN) Waiting Room - EP.877 Goodbye SOHEE💚                         | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F67c0270ca02387389a50981d) | ソヒMC卒業  |
 | 889 | (ENG/JPN) Waiting Room - EP.889 With RIIZE \| RIIZEに会いたいならデチンソまで来なよ～🏃 | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F682efd12895d2f7fecad9bdd) | RIIZE出演 |
+
 
 
 
