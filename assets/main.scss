@@ -1,0 +1,25 @@
+---
+---
+
+.site-footer {
+  text-align: center;
+}
+
+.site-footer-title {
+  font-weight: 600;
+  margin-bottom: 0.2em;
+}
+
+.site-footer-title a {
+  text-decoration: none;   /* 下線を消す */
+  color: inherit;          /* 通常テキストと同じ色 */
+}
+
+.site-footer-title a:hover {
+  text-decoration: underline; /* hover時だけ控えめに */
+}
+
+.site-footer-description {
+  font-size: 0.9em;
+  color: #666;
+}
