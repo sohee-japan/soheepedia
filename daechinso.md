@@ -41,5 +41,4 @@ Mnet Plus の公式ライブ配信コンテンツ
 なお、**「대.친.소」** という名称は、  
 **「대기실 친구를 소개합니다（待機室の友達を紹介します）」**  
 という表現の略とされています（※公式な定義は未確認）。  
-（例：  
-[公式Instagram投稿](https://www.instagram.com/reel/DKG44fpACZR/)）
+（例：[公式Instagram投稿](https://www.instagram.com/reel/DKG44fpACZR/)）
