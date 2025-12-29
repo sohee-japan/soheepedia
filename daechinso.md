@@ -18,7 +18,7 @@ Mnet Plus の公式ライブ配信コンテンツ
 
 ---
 
-## ソヒが出演したデチンソ（대.친.소 라이브）出演回一覧
+## ソヒが出演したデチンソ一覧
 
 
 | 回   | 動画タイトル                                                                  | 公式動画リンク | 備考      |
@@ -49,7 +49,7 @@ Mnet Plus の公式ライブ配信コンテンツ
 | 868 | 대.친.소 라이브 - EP.868                                                      | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F67715c249fbe8a58d3ea22d2) |         |
 | 871 | (ENG/JPN) 대.친.소 라이브 - EP.871                                            | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F6788dc410213734d821f8b82) |         |
 | 877 | (ENG/JPN) Waiting Room - EP.877 Goodbye SOHEE💚                         | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F67c0270ca02387389a50981d) | ソヒMC卒業  |
-| 889 | (ENG/JPN) Waiting Room - EP.889 With RIIZE \| RIIZEに会いたいならデチンソまで来なよ～🏃r | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F682efd12895d2f7fecad9bdd) | RIIZE出演 |
+| 889 | (ENG/JPN) Waiting Room - EP.889 With RIIZE \| RIIZEに会いたいならデチンソまで来なよ～🏃 | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F682efd12895d2f7fecad9bdd) | RIIZE出演 |
 ---
 
 ## デチンソ（대.친.소 / Daechinso）とは？
