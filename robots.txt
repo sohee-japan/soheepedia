@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://sohee-japan.github.io/soheepedia/sitemap.xml
