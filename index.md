@@ -12,7 +12,7 @@ permalink: index.html
 - 公式に公開されている情報への案内・整理を中心に掲載しています
 
 ## コンテンツ
-- [デチンソ（대.친.소 / DAECHINSO）出演回まとめ](./daechinso.md)  
+- [デチンソ（대.친.소 / DAECHINSO）出演回まとめ](./daechinso/)
   Mnet Plus の公式ライブ配信。ソヒがMCを務めたトーク番組。
   
 ---
