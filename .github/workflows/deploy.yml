@@ -36,7 +36,14 @@ jobs:
           else
             jekyll build
           fi
-
+          
+      - name: Debug sitemap output
+        run: |
+          echo "== list _site =="
+          ls -la _site | sed -n '1,120p'
+          echo "== head of _site/sitemap.xml =="
+          head -n 30 _site/sitemap.xml || true
+          
       # 重要：gh-pages は “配信するだけ”にする（Jekyllの再処理を避ける）
       - name: Add .nojekyll to built site
         run: |
