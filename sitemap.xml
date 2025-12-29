@@ -1,5 +1,16 @@
+---
+layout:
+permalink: /sitemap.xml
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sohee-japan.github.io/soheepedia/</loc></url>
-  <url><loc>https://sohee-japan.github.io/soheepedia/daechinso/</loc></url>
+{% assign pages = site.pages | where_exp: "p", "p.sitemap != false" %}
+{% for p in pages %}
+  {% assign u = p.url %}
+  {% if u != "/sitemap.xml" and u != "/robots.txt" and u != "/feed.xml" %}
+    <url>
+      <loc>{{ site.url }}{{ site.baseurl }}{{ u }}</loc>
+    </url>
+  {% endif %}
+{% endfor %}
 </urlset>
