@@ -10,10 +10,7 @@
   "about": {
     "@type": "Person",
     "name": "SOHEE",
-    "memberOf": {
-      "@type": "MusicGroup",
-      "name": "RIIZE"
-    }
+    "memberOf": { "@type": "MusicGroup", "name": "RIIZE" }
   }
 }
 </script>
@@ -24,8 +21,8 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "{{ page.title | escape }}",
-  "description": "{{ page.description | escape }}",
+  "name": {{ page.title | default: site.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
   "isPartOf": {
     "@type": "WebSite",
     "name": "Soheepedia",
@@ -34,10 +31,7 @@
   "about": {
     "@type": "Person",
     "name": "SOHEE",
-    "memberOf": {
-      "@type": "MusicGroup",
-      "name": "RIIZE"
-    }
+    "memberOf": { "@type": "MusicGroup", "name": "RIIZE" }
   }
 }
 </script>
