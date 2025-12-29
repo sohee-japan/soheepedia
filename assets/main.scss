@@ -23,3 +23,36 @@
   font-size: 0.9em;
   color: #666;
 }
+
+/* --- Tables: Soheepedia style --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95em;
+}
+
+th, td {
+  border: 1px solid rgba(0,0,0,0.12);
+  padding: 0.5rem 0.6rem;
+  vertical-align: top;
+}
+
+th {
+  font-weight: 600;
+  background: rgba(0,0,0,0.04);
+}
+
+/* 長いURLが表を崩すのを防ぐ */
+td a {
+  word-break: break-all;
+}
+
+/* スマホで横にスクロールできるようにする */
+.table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.table-wrap table {
+  min-width: 720px; /* 列が多いので最低幅を確保 */
+}
