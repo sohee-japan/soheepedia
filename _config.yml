@@ -4,5 +4,7 @@ theme: minima
 markdown: kramdown
 url: "https://sohee-japan.github.io"
 baseurl: "/soheepedia"
+include:
+  - sitemap.xml
 plugins:
   - jekyll-sitemap
