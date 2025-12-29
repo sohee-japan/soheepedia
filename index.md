@@ -1,6 +1,8 @@
 ---
 title: Soheepedia（そひぺでぃあ）
 permalink: /
+layout: default
+structured_data: website
 ---
 
 このサイトは **RIIZEのソヒ（SOHEE）** に関する  
