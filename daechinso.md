@@ -1,6 +1,9 @@
 ---
 title: デチンソ（待機室ライブ / 대.친.소 / Daechinso）
 permalink: /daechinso/
+layout: default
+structured_data: webpage
+description: RIIZE ソヒがMCを務めたデチンソ公式無料フル動画一覧
 ---
 
 ソヒがMCを務めた **Mnet Plus公式ライブ配信コンテンツ  
