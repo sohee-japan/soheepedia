@@ -1,3 +1,8 @@
+---
+title: デチンソ（대.친.소 / Daechinso）
+permalink: /soheepedia/daechinso.html
+---
+
 Mnet Plus の公式ライブ配信コンテンツ  
 「대.친.소（Waiting Room Live）」に関する情報をまとめています。
 
