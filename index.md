@@ -1,3 +1,8 @@
+---
+title: Soheepedia（そひぺでぃあ）
+permalink: index.html
+---
+
 このサイトは **RIIZEのソヒ（SOHEE）** に関する  
 出演情報・公式公開コンテンツへのリンクを整理したアーカイブです。
 
