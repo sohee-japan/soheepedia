@@ -1,6 +1,6 @@
 ---
 title: Soheepedia（そひぺでぃあ）
-permalink: index.html
+permalink: /
 ---
 
 このサイトは **RIIZEのソヒ（SOHEE）** に関する  
