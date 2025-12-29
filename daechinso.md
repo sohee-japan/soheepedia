@@ -43,7 +43,3 @@ Mnet Plus の公式ライブ配信コンテンツ
 という表現の略とされています（※公式な定義は未確認）。  
 （例：  
 [公式Instagram投稿](https://www.instagram.com/reel/DKG44fpACZR/)）
-
----
-
-← [Soheepedia（そひぺでぃあ）トップへ戻る](./index.md).
