@@ -43,4 +43,4 @@ Mnet Plus の公式ライブ配信コンテンツ
 
 ---
 
-← [そひぺでぃあ トップへ戻る](./index.md).
+← [Soheepedia トップへ戻る](./index.md).
