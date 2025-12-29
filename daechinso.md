@@ -50,6 +50,8 @@ Mnet Plus の公式ライブ配信コンテンツ
 | 871 | (ENG/JPN) 대.친.소 라이브 - EP.871                                            | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F6788dc410213734d821f8b82) |         |
 | 877 | (ENG/JPN) Waiting Room - EP.877 Goodbye SOHEE💚                         | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F67c0270ca02387389a50981d) | ソヒMC卒業  |
 | 889 | (ENG/JPN) Waiting Room - EP.889 With RIIZE \| RIIZEに会いたいならデチンソまで来なよ～🏃 | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F682efd12895d2f7fecad9bdd) | RIIZE出演 |
+
+
 ---
 
 ## デチンソ（대.친.소 / Daechinso）とは？
