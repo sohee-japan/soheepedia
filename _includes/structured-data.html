@@ -1,0 +1,44 @@
+{% if page.structured_data == "website" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Soheepedia",
+  "url": "https://sohee-japan.github.io/soheepedia/",
+  "description": "A non-commercial fan-made archive listing official and free full videos of SOHEE (RIIZE).",
+  "inLanguage": ["ja", "en", "ko"],
+  "about": {
+    "@type": "Person",
+    "name": "SOHEE",
+    "memberOf": {
+      "@type": "MusicGroup",
+      "name": "RIIZE"
+    }
+  }
+}
+</script>
+{% endif %}
+
+{% if page.structured_data == "webpage" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ page.title | escape }}",
+  "description": "{{ page.description | escape }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Soheepedia",
+    "url": "https://sohee-japan.github.io/soheepedia/"
+  },
+  "about": {
+    "@type": "Person",
+    "name": "SOHEE",
+    "memberOf": {
+      "@type": "MusicGroup",
+      "name": "RIIZE"
+    }
+  }
+}
+</script>
+{% endif %}
