@@ -1,5 +1,3 @@
-# デチンソ（대.친.소 / Daechinso）
-
 Mnet Plus の公式ライブ配信コンテンツ  
 「대.친.소（Waiting Room Live）」に関する情報をまとめています。
 
