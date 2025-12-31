@@ -27,7 +27,7 @@ description: RIIZE ソヒがMCを務めたデチンソ公式無料フル動画�
 ※ 字幕の有無は2025年末時点の確認内容です  
 
 
-<div class="daechinso-table">
+{: .daechinso-table }
 
 | 回   | 動画タイトル                                                                  | 公式動画リンク | 備考          | 字幕       |
 | --- | ----------------------------------------------------------------------- | -------- | ----------- | --------- |
@@ -58,8 +58,6 @@ description: RIIZE ソヒがMCを務めたデチンソ公式無料フル動画�
 | 871 | (ENG/JPN) 대.친.소 라이브 - EP.871                                           | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F6788dc410213734d821f8b82) |         | 日/英/韓 |
 | 877 | (ENG/JPN) Waiting Room - EP.877 Goodbye SOHEE💚                        | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F67c0270ca02387389a50981d) | ソヒMC卒業  | 日/英/韓 |
 | 889 | (ENG/JPN) Waiting Room - EP.889 With RIIZE \| RIIZEに会いたいならデチンソまで来なよ～🏃 | [無料動画](https://mnetplus.onelink.me/TRa8/ukgkrsl5?custom_link_value=play%2Fvideo%2F682efd12895d2f7fecad9bdd) | RIIZE出演 | 日/英/韓 |
-
-</div>
 
 
 
