@@ -60,3 +60,10 @@ td a {
 .table-wrap table {
   min-width: 720px; /* 列が多いので最低幅を確保 */
 }
+
+/* デチンソ一覧表：最終列の字幕列は改行しない */
+.daechinso-table table th:last-child,
+.daechinso-table table td:last-child {
+  white-space: nowrap;
+  min-width: 4em;
+}
