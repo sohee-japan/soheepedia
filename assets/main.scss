@@ -62,8 +62,8 @@ td a {
 }
 
 /* デチンソ一覧表：最終列の字幕列は改行しない */
-.daechinso-table table th:last-child,
-.daechinso-table table td:last-child {
+table.daechinso-table th:last-child,
+table.daechinso-table td:last-child {
   white-space: nowrap;
   min-width: 4em;
 }
